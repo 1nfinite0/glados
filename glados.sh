@@ -91,7 +91,7 @@ main(){
 }
 
 # 主程序循环每天随机时间签到（只需执行一次）
-main "COOKIE"
+main "_gid=GA1.2.1518449221.1692106546; koa:sess=eyJ1c2VySWQiOjExNzkwNSwiX2V4cGlyZSI6MTcxODAyNjU3NTE5NCwiX21heEFnZSI6MjU5MjAwMDAwMDB9; koa:sess.sig=Gl3N0pdrUfLsq-5zKeVr7HWq-zM; _ga=GA1.2.1086697147.1692106546; _gat_gtag_UA_104464600_2=1; _ga_CZFVKMNT9J=GS1.1.1692106546.1.1.1692106669.0.0.0"
 
 # 手动执行脚本签到（每天需执行一次）
 # sign "COOKIE"
